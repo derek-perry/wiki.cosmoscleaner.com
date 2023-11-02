@@ -1,0 +1,61 @@
+# Cosmos Cleaner
+### Clean up space junk, upgrade your ship, and become the best cleaner in the cosmos!
+
+_(This repository contains the wiki for the game Cosmos Cleaner.)_
+
+_[Website, Web Design]_
+
+**Made Using:** MkDocs, Netlify
+
+---
+
+### Links
+- **Game Website:** [CosmosCleaner.com](https://CosmosCleaner.com "Visit the game website for Cosmos Cleaner at CosmosCleaner.com")
+- **Game Wiki:** [Wiki.CosmosCleaner.com](https://Wiki.CosmosCleaner.com "Visit the game wiki for Cosmos Cleaner at Wiki.CosmosCleaner.com")
+- **Game Privacy Policy:** [CosmosCleaner.com/privacy](https://CosmosCleaner.com/privacy "Visit the privacy policy for Cosmos Cleaner at CosmosCleaner.com/privacy")
+- **Game Copyright Information:** [CosmosCleaner.com/copyright](https://CosmosCleaner.com/copyright "View the copyright information for Cosmos Cleaner at CosmosCleaner.com/copyright")
+- **Game By:** [Derek Perry - derek-perry.com](https://derek-perry.com "Go to Derek Perry, the developer of Cosmos Cleaner, at derek-perry.com")
+- **Game GitHub:** [github.com/derek-perry/CosmosCleaner](https://github.com/derek-perry/CosmosCleaner "Visit the GitHub for Cosmos Cleaner at github.com/derek-perry/CosmosCleaner")
+- **Website GitHub:** [github.com/derek-perry/cosmoscleaner.com](https://github.com/derek-perry/cosmoscleaner.com "Visit the GitHub for Cosmos Cleaner's Website at github.com/derek-perry/cosmoscleaner.com")
+- **Wiki GitHub:** [github.com/derek-perry/wiki.cosmoscleaner.com](https://github.com/derek-perry/wiki.cosmoscleaner.com "Visit the GitHub for Cosmos Cleaner's Wiki at github.com/derek-perry/wiki.cosmoscleaner.com")
+
+---
+
+### Copyright/License Information
+**[Cosmos Cleaner](https://CosmosCleaner.com "Visit the game website for Cosmos Cleaner at CosmosCleaner.com") TM Copyright 2023 [Derek Perry](https://dp.design "Go to Derek Perry, the developer of Cosmos Cleaner, at dp.design")**
+
+**Some rights reserved.**
+
+Use of [the code for Cosmos Cleaner's website](https://github.com/derek-perry/cosmoscleaner.com "Visit the GitHub for Cosmos Cleaner's Website at github.com/derek-perry/cosmoscleaner.com") is licensed under the [MIT License](https://mit.edu/~amini/LICENSE.md "View the Official MIT License at mit.edu/~amini/LICENSE.md"). (See the website's [README.md](https://github.com/derek-perry/cosmoscleaner.com#readme "Visit the README.md file in the GitHub repo for Cosmos Cleaner's Website at github.com/derek-perry/cosmoscleaner.com#readme") for more details)
+
+Use of [the code for Cosmos Cleaner's wiki](https://github.com/derek-perry/wiki.cosmoscleaner.com "Visit the GitHub for Cosmos Cleaner's Wiki at github.com/derek-perry/wiki.cosmoscleaner.com") is licensed under the [BSD 2-Clause "Simplified" License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE "View the Official MIT License at github.com/mkdocs/mkdocs/blob/master/LICENSE"). (See below for more details)
+
+However, use  of [Cosmos Cleaner’s code](https://github.com/derek-perry/CosmosCleaner "View Cosmos Cleaner by Derek Perry on GitHub") is strictly forbidden. (See the game's [README.md](https://github.com/derek-perry/CosmosCleaner#readme "Visit the README.md file in the GitHub repo for Cosmos Cleaner at github.com/derek-perry/CosmosCleaner#readme") for more details)
+
+
+**Fonts Used:**
+
+- [Bai Jamjuree](https://github.com/cadsondemak/Bai-Jamjuree "View Bai Jamjuree on GitHub")
+	- By [Cadson Demak](https://github.com/cadsondemak "Go to Cadson Demak, the Creator of Bai Jamjuree, on GitHub") ([SIL Open Font License 1.1](https://scripts.sil.org/ofl" "View the Official SIL Open Font License 1.1 at scripts.sil.org/ofl")) Copyright 2008
+	- Google Fonts Link: [fonts.google.com/specimen/Bai+Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree "View Bai Jamjuree on Google Fonts")
+	- Paragraph Text
+	- Heading Text
+	- Used in:
+		- Logo Text "Cosmos"
+		- Website Paragraph Text
+		- Website Heading Text
+		- Game Paragraph Text
+		- Game Heading Text
+- [Sonsie One](http://www.rdftype.it/?/projects/sonsie/ "View Sonsie One of Riccardo De Franceschi's Website")
+	- By [Riccardo De Franceschi](http://www.rdftype.it "Go to Riccardo De Franceschi, the Creator of Sonsie One, at www.rdftype.it") ([SIL Open Font License 1.1](https://scripts.sil.org/ofl" "View the Official SIL Open Font License 1.1 at scripts.sil.org/ofl")) Copyright 2011
+	- Google Fonts Link: [fonts.google.com/specimen/Sonsie+One](https://fonts.google.com/specimen/Sonsie+One "View Sonsie One on Google Fonts")
+	- Display Text
+	- Used in:
+		- Logo Text "Cleaner"
+
+
+**Wiki Website Generator Used:**
+
+This website was created using [MkDocs](https://github.com/mkdocs/mkdocs "Visit the GitHub repository for MkDocs at github.com/mkdocs/mkdocs"). Copyright © 2014-present, Tom Christie. All rights reserved. MkDocs is licensed under the [BSD 2-Clause "Simplified" License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE "View the Official MIT License at github.com/mkdocs/mkdocs/blob/master/LICENSE") which is a permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause. Both have very minute differences to the MIT license. (Permissions = Commercial use, Modification, Distribution, Private use) (Limitations = Liability, Warranty) (Conditions = License and copyright notice)
+
+_(View the accompanying LICENSE file for more information on the "[BSD 2-Clause "Simplified" License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE "View the Official MIT License at github.com/mkdocs/mkdocs/blob/master/LICENSE")".)_

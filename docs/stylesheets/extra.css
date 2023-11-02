@@ -1,0 +1,41 @@
+:root {
+  /* Override Primary color (Green Accent, White) */
+  --md-primary-fg-color: hsla(83, 81%, 44%, 1);
+  --md-primary-fg-color--light: hsla(83, 81%, 44%, 1);
+  --md-primary-fg-color--dark: hsla(83, 81%, 44%, 1);
+  --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+  --md-primary-bg-color--light: hsla(0, 0%, 100%, 1);
+
+  /* Override Link color (Green Accent) */
+  --md-text-link-color: hsla(83, 81%, 44%, 1);
+
+  /* Override Accent color (Blue Accent, Light Blue Background) */
+  --md-accent-fg-color: hsla(198, 89%, 48%, 1);
+  --md-accent-fg-color--transparent: hsla(198, 89%, 48%, 0.2);
+  --md-accent-bg-color: hsla(186, 100%, 91%, 1);
+  --md-accent-bg-color--light: hsla(186, 100%, 91%, 1);
+}
+
+/* Remove default table row/cell hover effect (background always white) */
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: rgba(255,255,255,1);
+}
+
+/* Fix copyright/social/footer margin/alignment */
+.md-copyright {
+  margin-top: 20px;
+}
+.md-copyright, .md-social, .md-social__link {
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+.md-social__link svg {
+  vertical-align: middle;
+}
+
+/* Lower opacity of the heading numbers from mkdocs-enumerate-headings-plugin */ 
+.enumerate-headings-plugin {
+  filter: opacity(42%);
+}

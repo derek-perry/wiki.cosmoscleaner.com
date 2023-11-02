@@ -1,0 +1,66 @@
+site_name: Cosmos Cleaner Wiki
+site_description: Clean up space junk, upgrade your ship, and become the best cleaner in the cosmos!
+copyright: "<a href='https://CosmosCleaner.com' title='CosmosCleaner.com'><em>Go to main website 🔗</em></a><p>Cosmos Cleaner &copy; 2023 Game by <a href='https://derek-perry.com' title='Go to Derek Perry's website at derek-perry.com'>Derek Perry</a></p>"
+nav:
+  - Go to Main Website: https://cosmoscleaner.com
+  - Home: index.md
+  - Game Info:
+    - game-info/index.md
+    - About: game-info/about.md
+    - Contact: game-info/contact.md
+    - Press: game-info/press.md
+plugins:
+    - search
+    - section-index
+    - macros
+    - enumerate-headings:
+        increment_across_pages: false
+        exclude:
+          - index.md
+          - game-info/index.md
+extra:
+  ccName: Cosmos Cleaner
+  ccURL: cosmoscleaner.com
+  social:
+    - icon: x
+      link: https://x.com/CosmosCleaner
+      name: X (formerly Twitter)
+    - icon: facebook
+      link: https://facebook.com/CosmosCleaner
+      name: Facebook
+    - icon: youtube
+      link: https://youtube.com/@CosmosCleaner
+      name: YouTube
+  manifest: static/favicon/site.webmanifest
+  generator: false
+theme:
+  name: material
+  icon:
+    logo: logo
+  favicon: static/favicon/favicon.ico
+  font:
+    text: Montserrat
+  features:
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - announce.dismiss
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+  custom_dir: overrides
+markdown_extensions:
+  - toc:
+      permalink: 🔗
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+extra_css:
+  - stylesheets/extra.css

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://wiki.cosmoscleaner.com
+
+# Sitemaps
+Sitemap: https://wiki.cosmoscleaner.com/sitemap.xml

@@ -39,3 +39,38 @@
 .enumerate-headings-plugin {
   filter: opacity(42%);
 }
+
+/* Custom Heading with Dark Blue Background and White Text */
+.headingcc {
+  padding: 10px 20px;
+  background-color: #164e63;
+  color: white;
+}
+
+/* Custom Item Area under Custom Heading - Light Blue Background and Dark Blue Text */
+.headingccitems {
+  margin-bottom:20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.25rem; /* 4px */
+  background-color: #cffafe;
+  color: #164e63;
+}
+
+/* Custom Items in Custom Item Area under Custom Heading - Main Blue Background and White Text */
+.headingccitems a {
+  padding: 10px 20px;
+  border-radius: 0.25rem; /* 4px */
+  background-color: #1e3a8a;
+  color: white;
+}
+.headingccitems a:hover {
+  background-color: #0ea5e9;
+  color: white;
+}
+.headingccitems a:focus {
+  background-color: #164e63;
+  color: white;
+}

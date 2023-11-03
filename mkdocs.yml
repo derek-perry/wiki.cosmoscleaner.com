@@ -12,6 +12,8 @@ nav:
 plugins:
     - search
     - section-index
+    - git-revision-date:
+        as_datetime: true
     - macros
     - enumerate-headings:
         increment_across_pages: false

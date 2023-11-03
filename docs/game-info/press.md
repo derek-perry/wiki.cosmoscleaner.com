@@ -98,11 +98,7 @@ Use Cosmos Cleaner and its content (in-game content, the website, relevant infor
 ## Kit Changes
 Although most changes are likely to be minor, Cosmos Cleaner may change this kit from time to time, and in Cosmos Cleaner's sole discretion. Cosmos Cleaner encourages users to frequently check this page for any changes to this kit.
 
-*This kit was last updated on October 16, 2023. Visit the [website files on GitHub](https://github.com/derek-perry/CosmosCleaner "View Cosmos Cleaner by Derek Perry on GitHub") for version history.*
+*Visit the [website files on GitHub](https://github.com/derek-perry/CosmosCleaner "View Cosmos Cleaner by Derek Perry on GitHub") for version history.*
 
 ## Contact Information
 If you have any questions about this kit, please contact Cosmos Cleaner via email at [Contact@CosmosCleaner.com](mailto:contact@cosmoscleaner.com "Contact Cosmos Cleaner via Email at Contact@CosmosCleaner.com")
-
-------
-
-Page Generated at {{ now() }}

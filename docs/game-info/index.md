@@ -1,5 +1,1 @@
 Current game information available is [About](/game-info/about "About Cosmos Cleaner"), [Contact](/game-info/contact "Contact Cosmos Cleaner"), and [Media/Press Kit](/game-info/press "Media/Press Kit").
-
-------
-
-Page Generated at {{ now() }}

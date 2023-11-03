@@ -3,7 +3,7 @@ site_description: Clean up space junk, upgrade your ship, and become the best cl
 copyright: "<a href='https://CosmosCleaner.com' title='CosmosCleaner.com'><em>Go to main website 🔗</em></a><p>Cosmos Cleaner &copy; 2023 Game by <a href='https://derek-perry.com' title='Go to Derek Perry's website at derek-perry.com'>Derek Perry</a></p>"
 nav:
   - Go to Main Website: https://cosmoscleaner.com
-  - Home: index.md
+  - Wiki Home: index.md
   - Game Info:
     - game-info/index.md
     - About: game-info/about.md
@@ -26,12 +26,21 @@ extra:
     - icon: x
       link: https://x.com/CosmosCleaner
       name: X (formerly Twitter)
+    - icon: instagram
+      link: https://instagram.com/CosmosCleaner
+      name: Instagram
+    - icon: threads
+      link: https://threads.com/CosmosCleaner
+      name: Threads
     - icon: facebook
       link: https://facebook.com/CosmosCleaner
       name: Facebook
     - icon: youtube
       link: https://youtube.com/@CosmosCleaner
       name: YouTube
+    - icon: reddit
+      link: https://reddit.com/r/CosmosCleaner
+      name: Reddit
   manifest: static/favicon/site.webmanifest
   generator: false
 theme:

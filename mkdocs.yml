@@ -92,6 +92,7 @@ theme:
     - navigation.footer
   custom_dir: overrides
 markdown_extensions:
+  - attr_list
   - toc:
       permalink: 🔗
   - pymdownx.emoji:

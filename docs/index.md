@@ -7,9 +7,8 @@ Clean up space junk, upgrade your ship, and become the best cleaner in the cosmo
 
 ------
 
-<div id="clutter" class="headingcc"><strong>Clutter:</strong></div>
-<div class="headingccitems">
-    <a href="/clutter" title="Overview">Overview/All</a>
+<div id="clutter" class="headingCC"><a href="/clutter" title="Clutter Types"><strong>Clutter</strong></a></div>
+<div class="headingCCitems">
     <a href="/clutter/aluminum" title="Aluminum (Clutter)">Aluminum</a>
     <a href="/clutter/steel" title="Steel (Clutter)">Steel</a>
     <a href="/clutter/copper" title="Copper (Clutter)">Copper</a>

@@ -32,6 +32,35 @@ a:focus {
   color: hsla(198, 89%, 48%, 1);
 }
 
+/* Adjust Footer link (next/prev) hover and focus colors (White Text) */
+.md-footer__link:hover {
+  color: hsla(255, 100%, 100%, 0.8);
+}
+.md-footer__link:focus {
+  color: hsla(255, 100%, 100%, 0.65);
+}
+
+/* Adjust Nav Menu title row hover and focus colors (Black Text) */
+.md-nav__title:hover {
+  color: hsla(0, 0%, 0%, 0.8);
+}
+.md-nav__title:focus {
+  color: hsla(0, 0%, 0%, 0.65);
+}
+
+/* Adjust Footer link text focus color (Faded White) */
+.md-copyright a:focus {
+  color: hsla(255, 100%, 100%, 0.65)!important;
+}
+
+/* Adjust Footer social link and Announcement Banner X opacity on hover and focus */
+.md-social__link:hover, .md-banner__button:hover {
+  filter: opacity(80%);
+}
+.md-social__link:focus, .md-banner__button:focus {
+  filter: opacity(65%);
+}
+
 /* Remove default table row/cell hover effect (background always white) */
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: rgba(255,255,255,1);
@@ -65,10 +94,10 @@ a:focus {
 .headingCC a {
   color: hsla(255, 100%, 100%, 1)!important;
 }
-.headingCC a:hover {
+.headingCC a:hover, .md-footer__link:hover {
   color: hsla(255, 100%, 100%, 0.8)!important;
 }
-.headingCC a:focus {
+.headingCC a:focus, .md-footer__link:focus {
   color: hsla(255, 100%, 100%, 0.65)!important;
 }
 
@@ -97,5 +126,5 @@ a:focus {
 }
 .headingCCitems a:focus {
   background-color: #164e63;
-  color: white;
+  color: white!important;
 }

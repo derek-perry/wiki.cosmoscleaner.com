@@ -7,11 +7,19 @@ Clean up space junk, upgrade your ship, and become the best cleaner in the cosmo
 
 ------
 
-<div id="game-info" class="headingcc"><strong>Game Info:</strong></div>
-<div class="headingccitems">
-<a href="/game-info/about" title="About Cosmos Cleaner">About</a>
-<a href="/game-info/contact" title="Contact Cosmos Cleaner">Contact</a>
-<a href="/game-info/press" title="Media/Press Kit">Media/Press Kit</a>
-</div>
-
 <div id="clutter" class="headingcc"><strong>Clutter:</strong></div>
+<div class="headingccitems">
+    <a href="/clutter" title="Overview">Overview/All</a>
+    <a href="/clutter/aluminum" title="Aluminum (Clutter)">Aluminum</a>
+    <a href="/clutter/steel" title="Steel (Clutter)">Steel</a>
+    <a href="/clutter/copper" title="Copper (Clutter)">Copper</a>
+    <a href="/clutter/titanium" title="Titanium (Clutter)">Titanium</a>
+    <a href="/clutter/silver" title="Silver (Clutter)">Silver</a>
+    <a href="/clutter/gold" title="Gold (Clutter)">Gold</a>
+    <a href="/clutter/lithium" title="Lithium (Clutter)">Lithium</a>
+    <a href="/clutter/sapphire" title="Sapphire (Clutter)">Sapphire</a>
+    <a href="/clutter/emerald" title="Emerald (Clutter)">Emerald</a>
+    <a href="/clutter/ruby" title="Ruby (Clutter)">Ruby</a>
+    <a href="/clutter/diamond" title="Diamond (Clutter)">Diamond</a>
+    <a href="/clutter/box" title="Random Box (Clutter)">Random Box</a>
+</div>

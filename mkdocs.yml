@@ -30,7 +30,7 @@ extra:
       link: https://instagram.com/CosmosCleaner
       name: Instagram
     - icon: threads
-      link: https://threads.com/CosmosCleaner
+      link: https://threads.net/@CosmosCleaner
       name: Threads
     - icon: facebook
       link: https://facebook.com/CosmosCleaner
@@ -41,6 +41,9 @@ extra:
     - icon: reddit
       link: https://reddit.com/r/CosmosCleaner
       name: Reddit
+    - icon: discord
+      link: https://discord.gg/sncuXN5n2q
+      name: Discord
   manifest: static/favicon/site.webmanifest
   generator: false
 theme:

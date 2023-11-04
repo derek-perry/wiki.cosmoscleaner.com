@@ -33,6 +33,25 @@ This kit features Cosmos Cleaner facts, a description, links, brand color inform
 
 **Website GitHub:** [github.com/derek-perry/CosmosCleaner-Website](https://github.com/derek-perry/CosmosCleaner-Website "Visit the GitHub for Cosmos Cleaner's Website at github.com/derek-perry/CosmosCleaner-Website")
 
+## Social Media
+
+**Join the Discord:** [discord.gg/sncuXN5n2q](https://discord.gg/sncuXN5n2q "Join the Cosmos Cleaner Discord at discord.gg/sncuXN5n2q")
+
+**X (formerly Twitter):** [x.com/CosmosCleaner](https://x.com/CosmosCleaner "Visit the X (formerly Twitter) for Cosmos Cleaner at twitter.com/CosmosCleaner")
+
+**Facebook:** [facebook.com/CosmosCleaner](https://facebook.com/CosmosCleaner "Visit the Facebook for Cosmos Cleaner at facebook.com/CosmosCleaner")
+
+**Instagram:** [instagram.com/CosmosCleaner](https://instagram.com/CosmosCleaner "Visit the Instagram for Cosmos Cleaner at instagram.com/CosmosCleaner")
+
+**Threads:** [threads.net/CosmosCleaner](https://threads.net/@CosmosCleaner "Visit the Threads for Cosmos Cleaner at threads.net/CosmosCleaner")
+
+**YouTube:** [youtube.com/@CosmosCleaner](https://youtube.com/@CosmosCleaner "Visit the YouTube for Cosmos Cleaner at youtube.com/@CosmosCleaner")
+
+**Reddit:** [reddit.com/r/CosmosCleaner](https://reddit.com/r/CosmosCleaner "Visit the Reddit for Cosmos Cleaner at reddit.com/r/CosmosCleaner")
+
+**LinkedIn:** [linkedin.com/company/Piano-Music-Database](https://linkedin.com/company/Piano-Music-Database "Visit the LinkedIn for Cosmos Cleaner at linkedin.com/company/Piano-Music-Database")
+
+
 ## Logos
 ### Vertical
 ![Cosmos Cleaner Logotype (Color on Light Backgrounds, Padded, Vertical Layout)](https://cosmoscleaner.com/CosmosCleaner_Logotype_ColorOnLight-Padded.svg)![Cosmos Cleaner Logotype (Color on Dark Backgrounds, Padded, Vertical Layout)](https://cosmoscleaner.com/CosmosCleaner_Logotype_ColorOnDark-Padded.svg)

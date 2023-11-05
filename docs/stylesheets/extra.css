@@ -24,20 +24,44 @@ a:focus {
   color: hsla(198, 89%, 48%, 1)!important;
 }
 
+/* Button styles (Main Blue Background and White Text) */
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.25rem; /* 4px */
+}
+.button {
+  padding: 10px 20px;
+  border-radius: 0.25rem; /* 4px */
+  background-color: #1e3a8a;
+  color: white!important;
+}
+.button:hover {
+  background-color: #0ea5e9;
+  color: white!important;
+}
+.button:focus {
+  background-color: #164e63;
+  color: white!important;
+}
+
+/* Remove default table row/cell hover effect (background always white) */
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: rgba(255,255,255,1);
+}
+
+/* Lower opacity of the heading numbers from mkdocs-enumerate-headings-plugin */ 
+.enumerate-headings-plugin {
+  filter: opacity(42%);
+}
+
 /* Adjust Announcement Banner link text color and link text hover color (Green Accent, Blue Accent) */
 .md-banner a {
   color: hsla(83, 81%, 44%, 1);
 }
 .md-banner a:hover {
   color: hsla(198, 89%, 48%, 1);
-}
-
-/* Adjust Footer link (next/prev) hover and focus colors (White Text) */
-.md-footer__link:hover {
-  color: hsla(255, 100%, 100%, 0.8);
-}
-.md-footer__link:focus {
-  color: hsla(255, 100%, 100%, 0.65);
 }
 
 /* Adjust Nav Menu title row hover and focus colors (Black Text) */
@@ -48,22 +72,10 @@ a:focus {
   color: hsla(0, 0%, 0%, 0.65);
 }
 
-/* Adjust Footer link text focus color (Faded White) */
-.md-copyright a:focus {
-  color: hsla(255, 100%, 100%, 0.65)!important;
-}
-
-/* Adjust Footer social link and Announcement Banner X opacity on hover and focus */
-.md-social__link:hover, .md-banner__button:hover {
-  filter: opacity(80%);
-}
-.md-social__link:focus, .md-banner__button:focus {
-  filter: opacity(65%);
-}
-
-/* Remove default table row/cell hover effect (background always white) */
-.md-typeset table:not([class]) tbody tr:hover {
-  background-color: rgba(255,255,255,1);
+/* Adjust Nav Menu title margin */
+[dir="ltr"] .md-header__title {
+  margin-left: .4rem;
+  margin-right: .4rem;
 }
 
 /* Fix copyright/social/footer margin/alignment */
@@ -80,51 +92,18 @@ a:focus {
   vertical-align: middle;
 }
 
-/* Lower opacity of the heading numbers from mkdocs-enumerate-headings-plugin */ 
-.enumerate-headings-plugin {
-  filter: opacity(42%);
+/* Adjust Footer link (next/prev) hover and focus colors (White Text) */
+.md-footer__link:hover {
+  color: hsla(255, 100%, 100%, 0.8);
 }
-
-/* Custom Heading (Dark Blue Background and White Text) */
-.headingCC {
-  padding: 10px 20px;
-  background-color: #164e63;
-  color: white;
-}
-.headingCC a {
-  color: hsla(255, 100%, 100%, 1)!important;
-}
-.headingCC a:hover, .md-footer__link:hover {
-  color: hsla(255, 100%, 100%, 0.8)!important;
-}
-.headingCC a:focus, .md-footer__link:focus {
+.md-footer__link:focus, .md-copyright a:focus {
   color: hsla(255, 100%, 100%, 0.65)!important;
 }
 
-/* Custom Heading - Custom Item Area (Light Blue Background and Dark Blue Text) */
-.headingCCitems {
-  margin-bottom:20px;
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 0.25rem; /* 4px */
-  background-color: #cffafe;
-  color: #164e63;
+/* Adjust Footer social link and Announcement Banner X opacity on hover and focus */
+.md-social__link:hover, .md-banner__button:hover {
+  filter: opacity(80%);
 }
-
-/* Custom Heading - Custom Items in Custom Item Area (Main Blue Background and White Text) */
-.headingCCitems a {
-  padding: 10px 20px;
-  border-radius: 0.25rem; /* 4px */
-  background-color: #1e3a8a;
-  color: white;
-}
-.headingCCitems a:hover {
-  background-color: #0ea5e9;
-  color: white;
-}
-.headingCCitems a:focus {
-  background-color: #164e63;
-  color: white!important;
+.md-social__link:focus, .md-banner__button:focus {
+  filter: opacity(65%);
 }

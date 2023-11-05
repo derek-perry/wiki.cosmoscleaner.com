@@ -4,8 +4,10 @@ copyright: "<a href='https://CosmosCleaner.com' title='CosmosCleaner.com'><em>Go
 nav:
   - Go to Main Website: https://cosmoscleaner.com
   - Wiki: index.md
+  - Characters:
+    - Characters: characters/index.md
   - Clutter:
-    - clutter/index.md
+    - Clutter: clutter/index.md
     - Aluminum: clutter/aluminum.md
     - Steel: clutter/steel.md
     - Copper: clutter/copper.md
@@ -33,18 +35,18 @@ extra:
   ccURL: cosmoscleaner.com
   clutterTypes: "|Name|Value|Mass|
     \n|-|-|-|
-    \n|[Aluminum](/clutter/aluminum 'Aluminum (Clutter)')|$10|10g|
-    \n|[Steel](/clutter/steel 'Steel (Clutter)')|$30|15g|
-    \n|[Copper](/clutter/copper 'Copper (Clutter)')|$60|30g|
-    \n|[Titanium](/clutter/titanium 'Titanium (Clutter)')|$100|50g|
-    \n|[Silver](/clutter/silver 'Silver (Clutter)')|$250|70g|
-    \n|[Gold](/clutter/gold 'gold (Clutter)')|$750|100g|
-    \n|[Lithium](/clutter/lithium 'Lithium (Clutter)')|$2,000|80g|
-    \n|[Sapphire](/clutter/sapphire 'Sapphire (Clutter)')|$5,000|10g|
-    \n|[Emerald](/clutter/emerald 'Emerald (Clutter)')|$20,000|10g|
-    \n|[Ruby](/clutter/ruby 'ruby (Clutter)')|$50,000|10g|
-    \n|[Diamond](/clutter/diamond 'Diamond (Clutter)')|$100,00|10g|
-    \n|[Random Box](/clutter/box 'Random Box (Clutter)')|$?|?g|
+    \n|[Aluminum](/clutter/aluminum/ 'Aluminum (Clutter)')|$10|10g|
+    \n|[Steel](/clutter/steel/ 'Steel (Clutter)')|$30|15g|
+    \n|[Copper](/clutter/copper/ 'Copper (Clutter)')|$60|30g|
+    \n|[Titanium](/clutter/titanium/ 'Titanium (Clutter)')|$100|50g|
+    \n|[Silver](/clutter/silver/ 'Silver (Clutter)')|$250|70g|
+    \n|[Gold](/clutter/gold/ 'Gold (Clutter)')|$750|100g|
+    \n|[Lithium](/clutter/lithium/ 'Lithium (Clutter)')|$2,000|80g|
+    \n|[Sapphire](/clutter/sapphire/ 'Sapphire (Clutter)')|$5,000|10g|
+    \n|[Emerald](/clutter/emerald/ 'Emerald (Clutter)')|$20,000|10g|
+    \n|[Ruby](/clutter/ruby/ 'Ruby (Clutter)')|$50,000|10g|
+    \n|[Diamond](/clutter/diamond/ 'Diamond (Clutter)')|$100,000|10g|
+    \n|[Random Box](/clutter/box/ 'Random Box (Clutter)')|$?|?g|
   "
   social:
     - icon: x

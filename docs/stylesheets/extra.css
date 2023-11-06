@@ -16,12 +16,9 @@
   --md-accent-bg-color--light: hsla(186, 100%, 91%, 1);
 }
 
-/* Link Focus Color (All Dark Blue, Except Header Nav is Blue Accent) */
+/* Link Focus Color (Dark Blue) */
 a:focus {
   color: hsla(196, 64%, 24%, 1)!important;
-}
-.md-tabs a:focus {
-  color: hsla(198, 89%, 48%, 1)!important;
 }
 
 /* Button styles (Main Blue Background and White Text) */
@@ -64,12 +61,17 @@ a:focus {
   color: hsla(198, 89%, 48%, 1);
 }
 
+/* Adjust Nav Menu item focus colors (Faded White) */
+.md-tabs a:focus {
+  color: hsla(255, 100%, 100%, 0.60)!important;
+}
+
 /* Adjust Nav Menu title row hover and focus colors (Black Text) */
 .md-nav__title:hover {
   color: hsla(0, 0%, 0%, 0.8);
 }
 .md-nav__title:focus {
-  color: hsla(0, 0%, 0%, 0.65);
+  color: hsla(0, 0%, 0%, 0.60);
 }
 
 /* Adjust Nav Menu title margin */
@@ -97,7 +99,7 @@ a:focus {
   color: hsla(255, 100%, 100%, 0.8);
 }
 .md-footer__link:focus, .md-copyright a:focus {
-  color: hsla(255, 100%, 100%, 0.65)!important;
+  color: hsla(255, 100%, 100%, 0.60)!important;
 }
 
 /* Adjust Footer social link and Announcement Banner X opacity on hover and focus */

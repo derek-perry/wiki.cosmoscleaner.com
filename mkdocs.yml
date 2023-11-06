@@ -38,23 +38,23 @@ extra:
   ccURL: cosmoscleaner.com
   characterTypes: "|Character||Type|
     \n|-|-|-|
-    \n|[CET](/characters/cet/ 'CET (Character)')|[![CET](../static/characters/character-cet.png 'CET (Character)')](/characters/cet/)|Player|
-    \n|[Cosmo](/characters/cosmo/ 'Cosmo (Character)')|[![Cosmo](../static/characters/character-cosmo.png 'Cosmo (Character)')](/characters/cosmo/)|Narrator|
+    \n|[CET](/characters/cet/ 'CET (Player Character)')|[![CET](../static/characters/character-cet.png 'CET (Player Character)')](/characters/cet/)|Player|
+    \n|[Cosmo](/characters/cosmo/ 'Cosmo (Narrator Character)')|[![Cosmo](../static/characters/character-cosmo.png 'Cosmo (Narrator Character)')](/characters/cosmo/)|Narrator|
   "
   clutterTypes: "|Clutter Type||Value|Mass|
     \n|-|-|-|-|
-    \n|[Aluminum](/clutter/aluminum/ 'Aluminum (Clutter)')|[![Aluminum](../static/clutter/clutter-aluminum.png 'Aluminum (Clutter)')](/clutter/aluminum/)|$10|10g|
-    \n|[Steel](/clutter/steel/ 'Steel (Clutter)')|[![Steel](../static/clutter/clutter-steel.png 'Steel (Clutter)')](/clutter/steel/)|$30|15g|
-    \n|[Copper](/clutter/copper/ 'Copper (Clutter)')|[![Copper](../static/clutter/clutter-copper.png 'Copper (Clutter)')](/clutter/copper/)|$60|30g|
-    \n|[Titanium](/clutter/titanium/ 'Titanium (Clutter)')|[![Titanium](../static/clutter/clutter-titanium.png 'Titanium (Clutter)')](/clutter/titanium/)|$100|50g|
-    \n|[Silver](/clutter/silver/ 'Silver (Clutter)')|[![Silver](../static/clutter/clutter-silver.png 'Silver (Clutter)')](/clutter/silver/)|$250|70g|
-    \n|[Gold](/clutter/gold/ 'Gold (Clutter)')|[![Gold](../static/clutter/clutter-gold.png 'Gold (Clutter)')](/clutter/gold/)|$750|100g|
-    \n|[Lithium](/clutter/lithium/ 'Lithium (Clutter)')|[![Lithium](../static/clutter/clutter-lithium.png 'Lithium (Clutter)')](/clutter/lithium/)|$2,000|80g|
-    \n|[Sapphire](/clutter/sapphire/ 'Sapphire (Clutter)')|[![Sapphire](../static/clutter/clutter-sapphire.png 'Sapphire (Clutter)')](/clutter/sapphire/)|$5,000|10g|
-    \n|[Emerald](/clutter/emerald/ 'Emerald (Clutter)')|[![Emerald](../static/clutter/clutter-emerald.png 'Emerald (Clutter)')](/clutter/emerald/)|$20,000|10g|
-    \n|[Ruby](/clutter/ruby/ 'Ruby (Clutter)')|[![Ruby](../static/clutter/clutter-ruby.png 'Ruby (Clutter)')](/clutter/ruby/)|$50,000|10g|
-    \n|[Diamond](/clutter/diamond/ 'Diamond (Clutter)')|[![Diamond](../static/clutter/clutter-diamond.png 'Diamond (Clutter)')](/clutter/diamond/)|$100,000|10g|
-    \n|[Random Box](/clutter/box/ 'Random Box (Clutter)')|[![Random Box](../static/clutter/clutter-box.png 'Random Box (Clutter)')](/clutter/box/)|$?|?g|
+    \n|[Aluminum](/clutter/aluminum/ 'Aluminum (Metal Clutter)')|[![Aluminum](../static/clutter/clutter-aluminum.png 'Aluminum (Metal Clutter)')](/clutter/aluminum/)|$10|10g|
+    \n|[Steel](/clutter/steel/ 'Steel (Metal Clutter)')|[![Steel](../static/clutter/clutter-steel.png 'Steel (Metal Clutter)')](/clutter/steel/)|$30|15g|
+    \n|[Copper](/clutter/copper/ 'Copper (Metal Clutter)')|[![Copper](../static/clutter/clutter-copper.png 'Copper (Metal Clutter)')](/clutter/copper/)|$60|30g|
+    \n|[Titanium](/clutter/titanium/ 'Titanium (Metal Clutter)')|[![Titanium](../static/clutter/clutter-titanium.png 'Titanium (Metal Clutter)')](/clutter/titanium/)|$100|50g|
+    \n|[Silver](/clutter/silver/ 'Silver (Metal Clutter)')|[![Silver](../static/clutter/clutter-silver.png 'Silver (Metal Clutter)')](/clutter/silver/)|$250|70g|
+    \n|[Gold](/clutter/gold/ 'Gold (Metal Clutter)')|[![Gold](../static/clutter/clutter-gold.png 'Gold (Metal Clutter)')](/clutter/gold/)|$750|100g|
+    \n|[Lithium](/clutter/lithium/ 'Lithium (Metal Clutter)')|[![Lithium](../static/clutter/clutter-lithium.png 'Lithium (Metal Clutter)')](/clutter/lithium/)|$2,000|80g|
+    \n|[Sapphire](/clutter/sapphire/ 'Sapphire (Gem Clutter)')|[![Sapphire](../static/clutter/clutter-sapphire.png 'Sapphire (Gem Clutter)')](/clutter/sapphire/)|$5,000|10g|
+    \n|[Emerald](/clutter/emerald/ 'Emerald (Gem Clutter)')|[![Emerald](../static/clutter/clutter-emerald.png 'Emerald (Gem Clutter)')](/clutter/emerald/)|$20,000|10g|
+    \n|[Ruby](/clutter/ruby/ 'Ruby (Gem Clutter)')|[![Ruby](../static/clutter/clutter-ruby.png 'Ruby (Gem Clutter)')](/clutter/ruby/)|$50,000|10g|
+    \n|[Diamond](/clutter/diamond/ 'Diamond (Gem Clutter)')|[![Diamond](../static/clutter/clutter-diamond.png 'Diamond (Gem Clutter)')](/clutter/diamond/)|$100,000|10g|
+    \n|[Random Box](/clutter/box/ 'Random Box (Special Clutter)')|[![Random Box](../static/clutter/clutter-box.png 'Random Box (Special Clutter)')](/clutter/box/)|$?|?g|
   "
   social:
     - icon: x

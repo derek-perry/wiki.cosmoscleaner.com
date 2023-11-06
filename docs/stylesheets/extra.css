@@ -43,7 +43,36 @@ a:focus {
   color: white!important;
 }
 
+/* Display div (mainly tables) inline at 450px max-width */
+.inlineDivs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.inlineDiv {
+  display:inline-block;
+  max-width:460px;
+  vertical-align: top;
+}
+
 /* Remove default table row/cell hover effect (background always white) */
+.md-typeset__table {
+  line-height: 1;
+}
+.md-typeset__table table:not([class]) {
+  font-size: .74rem;
+}
+.md-typeset__table table:not([class]) td,
+.md-typeset__table table:not([class]) th {
+  padding: 8px;
+}
+.md-typeset__table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+.md-typeset__table tr:hover:nth-child(2n) {
+  background-color: #f8f8f8!important;
+}
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: rgba(255,255,255,1);
 }

@@ -7,6 +7,7 @@ nav:
   - Characters:
     - Characters: characters/index.md
     - CET: characters/cet.md
+    - Cosmo: characters/cosmo.md
   - Clutter:
     - Clutter: clutter/index.md
     - Aluminum: clutter/aluminum.md
@@ -37,7 +38,8 @@ extra:
   ccURL: cosmoscleaner.com
   characterTypes: "|Character||Type|
     \n|-|-|-|
-    \n|[CET](/character/cet/ 'CET (Character)')|[![CET](../static/characters/character-cet.png 'CET (Character)')](/character/cet/)|Player|
+    \n|[CET](/characters/cet/ 'CET (Character)')|[![CET](../static/characters/character-cet.png 'CET (Character)')](/characters/cet/)|Player|
+    \n|[Cosmo](/characters/cosmo/ 'Cosmo (Character)')|[![Cosmo](../static/characters/character-cosmo.png 'Cosmo (Character)')](/characters/cosmo/)|Narrator|
   "
   clutterTypes: "|Clutter Type||Value|Mass|
     \n|-|-|-|-|

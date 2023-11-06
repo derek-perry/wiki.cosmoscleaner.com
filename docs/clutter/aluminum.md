@@ -1,3 +1,3 @@
 ## Description
 ![](../static/clutter/clutter-aluminum.png "Aluminum Image"){ align=right }
-Aluminum is the most abundant [clutter](/clutter "All Clutter Types") type. It has a value of $10 and a weight of 10g.
+Aluminum is the most abundant [clutter](/clutter "All Clutter Types") type. A single unit of 000000 has a value of $10 and a weight of 10g.

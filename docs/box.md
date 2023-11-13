@@ -1,0 +1,3 @@
+## Description
+![](static/clutter/clutter-box.svg "Random Box Image"){: style="float:right;height:150px;width:150px;padding:8px;"}
+A random box is a rare special [clutter](clutter.md "All Clutter Types") type. A random box has a random value and a random weight due to containing random [clutter](clutter.md "All Clutter Types"). Upon collection of a random box, the player receives a random assortment of [clutter](clutter.md "All Clutter Types"). If the box contains too much [clutter](clutter.md "All Clutter Types") when collected, extra [clutter](clutter.md "All Clutter Types") is left to float in space.

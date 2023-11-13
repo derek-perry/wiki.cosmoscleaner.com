@@ -7,24 +7,24 @@ nav:
   - Go to Main Website: https://cosmoscleaner.com
   - Wiki: index.md
   - Characters:
-    - characters/index.md
-    - CET: characters/cet.md
-    - Cosmo: characters/cosmo.md
+    - characters.md
+    - CET: cet.md
+    - Cosmo: cosmo.md
   - Clutter:
-    - clutter/index.md
-    - Aluminum: clutter/aluminum.md
-    - Steel: clutter/steel.md
-    - Copper: clutter/copper.md
-    - Titanium: clutter/titanium.md
-    - Silver: clutter/silver.md
-    - Gold: clutter/gold.md
-    - Lithium: clutter/lithium.md
-    - Sapphire: clutter/sapphire.md
-    - Emerald: clutter/emerald.md
-    - Ruby: clutter/ruby.md
-    - Diamond: clutter/diamond.md
-    - Fuel: clutter/fuel.md
-    - Random Box: clutter/box.md
+    - clutter.md
+    - Aluminum: aluminum.md
+    - Steel: steel.md
+    - Copper: copper.md
+    - Titanium: titanium.md
+    - Silver: silver.md
+    - Gold: gold.md
+    - Lithium: lithium.md
+    - Sapphire: sapphire.md
+    - Emerald: emerald.md
+    - Ruby: ruby.md
+    - Diamond: diamond.md
+    - Fuel: fuel.md
+    - Random Box: box.md
 plugins:
     - search
     - section-index
@@ -34,8 +34,8 @@ plugins:
         increment_across_pages: false
         exclude:
           - index.md
-          - characters/index.md
-          - clutter/index.md
+          - characters.md
+          - clutter.md
 extra:
   ccName: Cosmos Cleaner
   ccURL: cosmoscleaner.com

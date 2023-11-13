@@ -8,5 +8,6 @@ Clean up space junk, upgrade your ship, and become the best cleaner in the cosmo
 ## Content
 <div class="buttons">
 <a class="button" href="/characters" title="Characters"><strong>Characters</strong></a>
+<a class="button" href="/locations" title="Locations"><strong>Locations</strong></a>
 <a class="button" href="/clutter" title="Clutter Types"><strong>Clutter</strong></a>
 </div>

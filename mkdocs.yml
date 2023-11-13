@@ -25,6 +25,9 @@ nav:
     - Diamond: diamond.md
     - Fuel: fuel.md
     - Random Box: box.md
+  - Locations:
+    - locations.md
+    - HQ: hq.md
 plugins:
     - search
     - section-index
@@ -36,9 +39,8 @@ plugins:
           - index.md
           - characters.md
           - clutter.md
+          - locations.md
 extra:
-  ccName: Cosmos Cleaner
-  ccURL: cosmoscleaner.com
   social:
     - icon: x
       link: https://x.com/CosmosCleaner

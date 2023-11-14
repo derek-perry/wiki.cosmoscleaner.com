@@ -2,7 +2,7 @@ site_name: Cosmos Cleaner Wiki
 site_description: Clean up space junk, upgrade your ship, and become the best cleaner in the cosmos!
 copyright: "<p style='padding-bottom:10px;'><img src='../../static/logo/CosmosCleaner_Logotype_ColorOnDark-Padded.svg' alt='' width=300 height=300/></p>
 <a href='https://CosmosCleaner.com' title='CosmosCleaner.com'><em>Go to Game Website</em></a> | <a href='https://CosmosCleaner.com/privacy' title='CosmosCleaner.com/privacy'><em>Privacy Policy</em></a> | <a href='https://CosmosCleaner.com/tos' title='CosmosCleaner.com/tos'><em>Terms of Service</em></a> | <a href='https://CosmosCleaner.com/copyright' title='CosmosCleaner.com/copyright'><em>Copyright/Licenses</em></a>
-<p>Copyright © 2023 <a href='https://CosmosCleaner.com' title='CosmosCleaner.com'>Cosmos Cleaner</a>™ 2023</p><p>Game by <a href='https://derek-perry.com' title='Go to Derek Perry's website at derek-perry.com'>Derek Perry</a> <img src='../../static/dp.svg' alt='' width=16 height=16/></p>"
+<p>Copyright © 2023 <a href='https://CosmosCleaner.com' title='CosmosCleaner.com'>Cosmos Cleaner</a>™</p><p>Game by <a href='https://derek-perry.com' title='Go to Derek Perry's website at derek-perry.com'>Derek Perry</a> <img src='../../static/dp.svg' alt='' width=16 height=16/></p>"
 nav:
   - Go to Game Website: https://cosmoscleaner.com
   - Wiki: index.md

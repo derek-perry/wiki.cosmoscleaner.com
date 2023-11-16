@@ -5,7 +5,7 @@ _(This repository contains the wiki for the game Cosmos Cleaner.)_
 
 _[Website, Web Design]_
 
-**Made Using:** MkDocs, Netlify
+**Made Using:** MkDocs, Netlify, Adobe Photoshop, Adobe Illustrator
 
 ---
 

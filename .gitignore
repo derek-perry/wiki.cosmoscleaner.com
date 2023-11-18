@@ -146,5 +146,8 @@ Temporary Items
 *__pycache__/
 *venv*
 
+# MkDocs Cache
+.cache
+
 # idea
 .idea

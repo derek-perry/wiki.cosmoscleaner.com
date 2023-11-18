@@ -16,6 +16,20 @@
   --md-accent-bg-color--light: hsla(186, 100%, 91%, 1);
 }
 
+/* Link Text Decoration/Underline (except for on-hover and the nav links) */
+a {
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
+.md-tabs a {
+  text-decoration: none;
+}
+.md-tabs a:hover {
+  text-decoration: underline;
+}
+
 /* Link Focus Color (Dark Blue) */
 a:focus {
   color: hsla(196, 64%, 24%, 1)!important;

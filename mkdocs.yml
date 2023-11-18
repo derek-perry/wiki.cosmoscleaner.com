@@ -5,7 +5,8 @@ copyright: "<p style='padding-bottom:10px;'><img src='../../static/logo/CosmosCl
 <p>Copyright © 2023 <a href='https://CosmosCleaner.com' title='CosmosCleaner.com'>Cosmos Cleaner</a>™</p><p>Game by <a href='https://derek-perry.com' title='Go to Derek Perry's website at derek-perry.com'>Derek Perry</a> <img src='../../static/dp.svg' alt='' width=16 height=16/></p>"
 nav:
   - Go to Game Website: https://cosmoscleaner.com
-  - Wiki: index.md
+  - Wiki:
+    - index.md
   - Characters:
     - characters.md
     - CET: cet.md
@@ -89,12 +90,33 @@ theme:
     - navigation.tracking
     - navigation.instant
     - navigation.instant.progress
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
   custom_dir: overrides
 markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
   - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - toc:
       permalink: '#'
+  - pymdownx.details
   - pymdownx.extra
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

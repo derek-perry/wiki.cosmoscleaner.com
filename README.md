@@ -16,7 +16,7 @@ _[Website, Web Design]_
 - **Website/Wiki Privacy Policy:** [CosmosCleaner.com/privacy](https://CosmosCleaner.com/privacy "Visit the privacy policy for Cosmos Cleaner's Website and Wiki at CosmosCleaner.com/privacy")
 - **Game Terms of Service:** [CosmosCleaner.com/tosgame](https://CosmosCleaner.com/tosgame "Visit the terms of service for Cosmos Cleaner at CosmosCleaner.com/tosgame")
 - **Website/Wiki Terms of Service:** [CosmosCleaner.com/tos](https://CosmosCleaner.com/tos "Visit the terms of service for Cosmos Cleaner's Website and Wiki at CosmosCleaner.com/tos")
-- **Copyright Information:** [CosmosCleaner.com/copyright](https://CosmosCleaner.com/copyright "View the copyright information for Cosmos Cleaner at CosmosCleaner.com/copyright")
+- **Copyright/License Information:** [CosmosCleaner.com/copyright](https://CosmosCleaner.com/copyright "View the copyright/license information for Cosmos Cleaner at CosmosCleaner.com/copyright")
 - **Game By:** [Derek Perry - derek-perry.com](https://derek-perry.com "Go to Derek Perry, the developer of Cosmos Cleaner, at derek-perry.com")
 - **Game GitHub:** [github.com/derek-perry/CosmosCleaner](https://github.com/derek-perry/CosmosCleaner "Visit the GitHub for Cosmos Cleaner at github.com/derek-perry/CosmosCleaner")
 - **Website GitHub:** [github.com/derek-perry/cosmoscleaner.com](https://github.com/derek-perry/cosmoscleaner.com "Visit the GitHub for Cosmos Cleaner's Website at github.com/derek-perry/cosmoscleaner.com")
@@ -45,28 +45,4 @@ Use of [the code for Cosmos Cleaner's wiki](https://github.com/derek-perry/wiki.
 
 However, use  of [Cosmos Cleaner’s code](https://github.com/derek-perry/CosmosCleaner "View Cosmos Cleaner by Derek Perry on GitHub") is strictly forbidden. (See the game's [README.md](https://github.com/derek-perry/CosmosCleaner#readme "Visit the README.md file in the GitHub repo for Cosmos Cleaner at github.com/derek-perry/CosmosCleaner#readme") for more details)
 
-
-### Fonts Used:
-- [Bai Jamjuree](https://github.com/cadsondemak/Bai-Jamjuree "View Bai Jamjuree on GitHub")
-	- By [Cadson Demak](https://github.com/cadsondemak "Go to Cadson Demak, the Creator of Bai Jamjuree, on GitHub") ([SIL Open Font License 1.1](https://scripts.sil.org/ofl" "View the Official SIL Open Font License 1.1 at scripts.sil.org/ofl")) Copyright 2008
-	- Google Fonts Link: [fonts.google.com/specimen/Bai+Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree "View Bai Jamjuree on Google Fonts")
-	- Paragraph Text
-	- Heading Text
-	- Used in:
-		- Logo Text "Cosmos"
-		- Website Paragraph Text
-		- Website Heading Text
-		- Game Paragraph Text
-		- Game Heading Text
-- [Sonsie One](http://www.rdftype.it/?/projects/sonsie/ "View Sonsie One of Riccardo De Franceschi's Website")
-	- By [Riccardo De Franceschi](http://www.rdftype.it "Go to Riccardo De Franceschi, the Creator of Sonsie One, at www.rdftype.it") ([SIL Open Font License 1.1](https://scripts.sil.org/ofl" "View the Official SIL Open Font License 1.1 at scripts.sil.org/ofl")) Copyright 2011
-	- Google Fonts Link: [fonts.google.com/specimen/Sonsie+One](https://fonts.google.com/specimen/Sonsie+One "View Sonsie One on Google Fonts")
-	- Display Text
-	- Used in:
-		- Logo Text "Cleaner"
-
-
-### Wiki Website Generator Used:
-This wiki was created using [MkDocs](https://github.com/mkdocs/mkdocs "Visit the GitHub repository for MkDocs at github.com/mkdocs/mkdocs"). Copyright © 2014-present, Tom Christie. All rights reserved. MkDocs is licensed under the [BSD 2-Clause "Simplified" License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE "View the Official MIT License at github.com/mkdocs/mkdocs/blob/master/LICENSE") which is a permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause. Both have very minute differences to the MIT license. (Permissions = Commercial use, Modification, Distribution, Private use) (Limitations = Liability, Warranty) (Conditions = License and copyright notice)
-
-_(View the accompanying LICENSE file for more information on the "[BSD 2-Clause "Simplified" License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE "View the Official MIT License at github.com/mkdocs/mkdocs/blob/master/LICENSE")".)_
+Read more about Cosmos Cleaner's Copyright and License Information: [CosmosCleaner.com/copyright](https://CosmosCleaner.com/copyright "View the copyright information for Cosmos Cleaner at CosmosCleaner.com/copyright")
